@@ -1,3 +1,0 @@
-lxml
-xmltodict
-PyQt5
